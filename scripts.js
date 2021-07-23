@@ -5,9 +5,9 @@ let container = document.getElementById(`container`);
 
 
 // styling, but not creating grids yet
-container.style.height = `50vh`;
-container.style.width = `50vw`;
-container.style.border = `solid 2px white`;
+container.style.height = `25vh`;
+container.style.width = `25vw`;
+container.style.border = `solid 4px white`;
 container.style.display = `grid`;
 
 
