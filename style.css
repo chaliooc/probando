@@ -3,7 +3,18 @@
   padding: 0;
 }
 
-body {
+#principalContainer {
+  height: 100vh;
+  width: 100vw;
+  background: black;
+  display: grid;
+  place-content: center;
+}
+
+.colored {
   background-color: black;
-  color: white;
+}
+
+.uncolored {
+  background-color: black;
 }
